@@ -120,15 +120,15 @@
     <string name="always_online">Siempre muéstreme en línea</string>
 
     <!-- Translate these for 4.6 -->
-    <string name="listtype_black">BlackList</string>
-    <string name="listtype_white">WhiteList</string>
-    <string name="whitelistinfo">Use this as %1$s</string>
-    <string name="hide_notifs">Hide notifications for locked contacts</string>
-    <string name="lock_whatsapp_web">Lock WhatsApp Web</string>
-    <string name="sqliteMissing">Sqlite3 may be missing. Please refer FAQ on XDA</string>
+    <string name="listtype_black">Lista Negra</string>
+    <string name="listtype_white">Lista Blanca</string>
+    <string name="whitelistinfo">Usar esto como %1$s</string>
+    <string name="hide_notifs">Ocultar notificaciones de contactos bloqueados</string>
+    <string name="lock_whatsapp_web">Bloquear WhatsApp Web</string>
+    <string name="sqliteMissing">Sqlite3 no encontrada. Revisa el FAQ en XDA</string>
     <!-- Translate end for v4.6 -->
 
-    <string name="replace_ticks">Show black ticks instead of blue</string>
+    <string name="replace_ticks">Mostrar ticks negros en vez de azules</string>
 
 
 </resources>
